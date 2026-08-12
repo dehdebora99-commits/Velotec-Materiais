@@ -1,0 +1,8 @@
+[
+  {
+    "titulo": "Exemplo de material",
+    "descricao": "Escreva aqui uma explicação curta sobre o que é este material.",
+    "imagem": "imagens/exemplo.jpg",
+    "arquivo": "arquivos/exemplo.pdf"
+  }
+]
