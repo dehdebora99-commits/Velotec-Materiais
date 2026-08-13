@@ -28,5 +28,11 @@
   "descrição":"Livro lúdico e interativo que ajuda a criança a diferenciar e produzir os sons de L e R por meio de histórias, imagens e brincadeiras.",
   "imagem": "imagens/cl.png",
   "arquivo": "arquivos/livro Lulu e Ruru.pdf"
+  },
+  {
+  "titulo": "SOS TEA",
+  "descrição": "Material prático de apoio para compreender, prevenir e manejar crises no cotidiano de crianças com TEA, criado pela Dra. Sophie Metral, com estratégias rápidas e organizadas para pais, cuidadores e profissionais.",
+  "imagem":"sos.png",
+  "arquivo": "arquivos/sos.pdf"
   }
 ]
